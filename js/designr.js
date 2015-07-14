@@ -224,9 +224,9 @@ $(document).ready(function() {
 		$('.backstretch').remove();
 
 		if (direction=='down'){
-			$.backstretch('assets/desk-glasses-notebook.jpg');
+			$.backstretch('https://static.pexels.com/photos/3061/person-woman-desk-laptop.jpg');
 		}else{
-			$.backstretch('assets/exhibition.jpg');
+			$.backstretch('https://static.pexels.com/photos/522/person-woman-art-creative.jpg');
 		}
 	});
 
