@@ -213,9 +213,9 @@ $(document).ready(function() {
 	/*============================================
 	Backstretch Images
 	==============================================*/
-	$.backstretch('assets/exhibition.jpg');
+	$.backstretch('https://static.pexels.com/photos/522/person-woman-art-creative.jpg');
 
-	$('body').append('<img class="preload-image" src="assets/desk-glasses-notebook.jpg" style="display:none;"/>');
+	$('body').append('<img class="preload-image" src="https://static.pexels.com/photos/3061/person-woman-desk-laptop.jpg" style="display:none;"/>');
 
 	$('#about').waypoint(function(direction){
 
